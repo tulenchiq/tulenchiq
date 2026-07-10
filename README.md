@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Dmitry Nikiforov 👋
 
-<!--
-**tulenchiq/tulenchiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at UGPA
 
-Here are some ideas to get you started:
+## Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-24A1E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DmitryNikiforov_official)
+
+## Stack:
+### Backend & Frameworks
+- Python
+- Django / DRF
+- Flask
+- Gunicorn
+
+### Data & ORM
+- PostgreSQL
+- SQLAlchemy
+
+### DevOps & Deployment
+- Docker Compose
+- Nginx
+- CI/CD
+- Ubuntu Server
+
+### VCS & Collaboration
+- GitHub
+- GitLab
+
+### Testing
+- Pytest
+- Unittest
+
+### Other
+- pyTelegramBotAPI
+- BeautifulSoup4
