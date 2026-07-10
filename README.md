@@ -11,7 +11,6 @@
 - Python
 - Django / DRF
 - Flask
-- Gunicorn
 
 ### Data & ORM
 - PostgreSQL
@@ -19,7 +18,7 @@
 
 ### DevOps & Deployment
 - Docker Compose
-- Nginx
+- Nginx + Gunicorn
 - CI/CD
 - Ubuntu Server
 
